@@ -1,0 +1,38 @@
+
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #FFFFFF;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .wave1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  #about {
+    padding-top: 1rem;
+    background-color: #032A3B;
+    color: #FFFFFF;
+  }
+
+  #education {
+    padding-top: 1rem;
+    background-color: #FFFFFF;
+  }
+  
+  #projects {
+    background-color: #032A3B	;
+  }
+
+  #skill {
+    background-color: #FFFFFF; 
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+  
